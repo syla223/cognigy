@@ -6,7 +6,8 @@ This module is based on a TensorFlow.js model: [toxicity classifier](https://git
 
 The node detects toxic content of the text and classifies it into seven categories: "identity attack", "insult", "obscene", "severe toxicity", "sexual explicit", "threat" and "toxicity". 
 The results of the classification show probabilities for each category and give a **true** if the probabilty for **"1"** is above 0.9. 
-The results will be written into the context in the form
+
+The results will be written into the context in the form:
 
 ```json
 [
