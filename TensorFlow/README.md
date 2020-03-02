@@ -18,7 +18,7 @@ You can use this templet to create a Custom Module for cognigy.
 
 Import your model using `require()` and create a function based on the model's documentation.
 
-In order to get the text message from IFlowInput, use `input.input.text`.Then, you can apply model's functions on your input.
+In order to get the text message from IFlowInput, use `input.input.text`. Then, you can apply model's functions on your input.
 
 To save the result in the context of the message use `input.actions.addToContext()`. 
 
