@@ -6,9 +6,9 @@ This module shows how to use any TensorFlow.js model in Custom Module.
 
 Install the library with npm:
 
-'''bash
+```bash
 npm install name
-'''
+```
 
 ## Usage
 
