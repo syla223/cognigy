@@ -13,7 +13,7 @@
 	"dependencies": {
 		"@types/node": "^13.7.2",
 		"expect.js": "^0.3.1",
-		"mocha": "^7.0.1",
+		"mocha": "^10.2.0",
 		"sentiment": "^5.0.2"
 	}
 }
